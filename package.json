@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dead-server": "^1.0.9",
+    "node-modules": "^0.0.1"
+  },
+  "name": "functions",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "script": "dead-server watch node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
